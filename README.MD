@@ -1,0 +1,1 @@
+Libreria creada para implementar un control difuso en un arduino o cualquier microcontrolador que permite el IDE arduino. Aun esta incompleta y falta por trabajar en muchos aspectos, la inferencia que aqui se aborda es la de Mamdani
